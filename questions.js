@@ -15,7 +15,7 @@ questions = [
         }
     },
     {
-        "question": "Incremental change through subversion is better than full scale rebellion.",
+        "question": "Federalism is better than unitary government.",
         "i18n": {
         },
         "effect": {
