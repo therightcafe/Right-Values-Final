@@ -15,7 +15,7 @@ questions = [
         }
     },
     {
-        "question": "Federalism is better than unitary government.",
+        "question": "We ought to ban pornography.",
         "i18n": {
         },
         "effect": {
@@ -57,7 +57,7 @@ questions = [
         }
     },
     {
-        "question": "I'd rather live in a federal republic than a unitary democracy.",
+        "question": "Sexual deviants should not be normalized or accepted.",
         "i18n": {
         },
         "effect": {
@@ -353,7 +353,7 @@ questions = [
         }
     },
     {
-        "question": "Stronger government needs to be curbed to prevent tyrannny.",
+        "question": "Federalism is better than unitary government.",
         "i18n": {
         },
         "effect": {
@@ -367,7 +367,7 @@ questions = [
         }
     },
     {
-        "question": "I would rather live in Francoist Spain than in an ancap society.",
+        "question": "I would rather live in Francoist Spain than in the Roman Republic.",
         "i18n": {
         },
         "effect": {
