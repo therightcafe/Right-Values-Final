@@ -57,7 +57,7 @@ questions = [
         }
     },
     {
-        "question": "We must push reform, not mindless revolution!",
+        "question": "I'd rather live in a federal republic than a unitary democracy.",
         "i18n": {
         },
         "effect": {
