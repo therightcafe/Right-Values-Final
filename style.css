@@ -1,6 +1,6 @@
 html {
-    background-color: #bbbbbb;
-    padding: 0px;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(224,208,141,1) 26%);
 }
 body {
     width: 80%;
@@ -30,7 +30,7 @@ p.value-description {
 p.question {
     margin: 16pt auto;
     color: #333333;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quattrocentro';
     font-weight: normal;
     width: 70%;
     min-width: 500pt;
