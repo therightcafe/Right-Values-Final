@@ -29,7 +29,7 @@ questions = [
         }
     },
     {
-        "question": "We should not arrest people for using recreational drugs.",
+        "question": "Cracking down on pornography would involve criminalizing porn producers, not arresting consumers, some of which are addicts..",
         "i18n": {
         },
         "effect": {
@@ -43,7 +43,7 @@ questions = [
         }
     },
     {
-        "question": "Abortion should be legalized.",
+        "question": "Abortion is a necesity in a developed nation.",
         "i18n": {
         },
         "effect": {
@@ -71,7 +71,7 @@ questions = [
         }
     },
     {
-        "question": "Promotion of High Culture is a necesity.",
+        "question": "Promotion of high culture through patronage of art with right wing motifs helps us in the long run.",
         "i18n": {
         },
         "effect": {
@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "Tradition tends to hold societies back.",
+        "question": "Tradition tends to hold societies back when their traditions and practices are unprepared for external threats.",
         "i18n": {
         },
         "effect": {
@@ -128,7 +128,7 @@ questions = [
     },
 //Stateown vs Market
     {
-        "question": "A Laissez-Faire economy leads to monopoly and degenerate industries.",
+        "question": "A Laissez-Faire economy leads to monopolies and a class of dumb consoomers.",
         "i18n": {
         },
         "effect": {
@@ -156,7 +156,7 @@ questions = [
         }
     },
     {
-        "question": "Opression by corporations aren't a valid thing, because employees voluntarily work.",
+        "question": "I fear oppression by governments more than the oppression the corporate world does to the right.",
         "i18n": {
         },
         "effect": {
@@ -170,7 +170,7 @@ questions = [
         }
     },
     {
-        "question": "Regulation reduces the positive effects of Capitalism.",
+        "question": "The nation is best when regulatory red tape is cut back on and businesses can easily get set-up.",
         "i18n": {
         },
         "effect": {
@@ -184,7 +184,7 @@ questions = [
         }
     },
     {
-        "question": "Most rich people got their wealth through merit.",
+        "question": "Most rich people  are not squandering elites who got their wealth through nepotism.",
         "i18n": {
         },
         "effect": {
@@ -198,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "We do not need to punish the rich to elevate the common man.",
+        "question": "I am not a progressive on economic issues, because even a homogeneous nation cannot afford such crippling tax rates.",
         "i18n": {
         },
         "effect": {
@@ -212,7 +212,7 @@ questions = [
         }
     },
     {
-        "question": "We should have a minimal government alongisde with a fully functional market.",
+        "question": "The US should return to a minimal government with high degrees of federalism and low taxes.",
         "i18n": {
         },
         "effect": {
@@ -226,7 +226,7 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "High tariffs should be put on foreign goods, especially those produced by our rivals.",
         "i18n": {
         },
         "effect": {
@@ -240,7 +240,7 @@ questions = [
         }
     },
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "The economic plans of someone like Bernie can work in a homogeneous nation with no immmigration.",
         "i18n": {
         },
         "effect": {
@@ -282,7 +282,7 @@ questions = [
         }
     },
     {
-        "question": "Instead of welfare, people should learn to pull themselves up by their own bootstraps.",
+        "question": "While hyper individualism makes our country selfish and hedonistic, rugged individualism with a national identity > Collectivism.",
         "i18n": {
         },
         "effect": {
@@ -296,7 +296,7 @@ questions = [
         }
     },
     {
-        "question": "Single Payer healthcare is desirable compared to privatized care.",
+        "question": "The right in America should embrace economic populism if it wants to win.",
         "i18n": {
         },
         "effect": {
@@ -339,7 +339,7 @@ questions = [
         }
     },
     {
-        "question": "Hereditary or Appointed succession is better than election.",
+        "question": "Viewing non-democratic systems as an existential threat artificially limits policy making..",
         "i18n": {
         },
         "effect": {
@@ -353,7 +353,7 @@ questions = [
         }
     },
     {
-        "question": "Federalism is better than unitary government.",
+        "question": "Federalism allows the right to win easier than in a unitary system.",
         "i18n": {
         },
         "effect": {
@@ -367,7 +367,7 @@ questions = [
         }
     },
     {
-        "question": "I would rather live in Francoist Spain than in the Roman Republic.",
+        "question": "The Enlightenment and its consequences have been been a disaster for the human race.",
         "i18n": {
         },
         "effect": {
@@ -381,7 +381,7 @@ questions = [
         }
     },
     {
-        "question": "Democracy ought to be done away with, as it makes politics uninnovative.",
+        "question": "Democracy ought to be done away with, as it creates gridlock in times of crisis.",
         "i18n": {
         },
         "effect": {
@@ -395,7 +395,7 @@ questions = [
         }
     },
     {
-        "question": "I prefer a Venetian Doge esque system to an absolute monarch like Louis XIII.",
+        "question": "I prefer a classical republic like Rome or early America to an absolute monarchy or dictatorship..",
         "i18n": {
         },
         "effect": {
@@ -409,7 +409,7 @@ questions = [
         }
     },
      {
-        "question": "I want a absolute monarch.",
+        "question": "I want a absolute monarchary that is seperated from the selfish aims of public opinion and democracy.",
         "i18n": {
         },
         "effect": {
@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "If there has to be a state, I would choose the old American Republic to the Ancien Regime.",
+        "question": "Just because an ideology is 'based' doesn't mean its desirable. Neoliberalism is unironically better than Nazbol Gang to live under.",
         "i18n": {
         },
         "effect": {
@@ -452,7 +452,7 @@ questions = [
         }
     },
     {
-        "question": "Rather than bombing innocent countries, we should primarily work on peace.",
+        "question": "Rather than spreading our influence overseas, we ought to look to the America First movement for inspiration.",
         "i18n": {
         },
         "effect": {
@@ -466,7 +466,7 @@ questions = [
         }
     },
     {
-        "question": "Countries with authoritarian regimes should be toppled.",
+        "question": "Countries with authoritarian regimes that are our enemies should be invaded",
         "i18n": {
         },
         "effect": {
@@ -480,7 +480,7 @@ questions = [
         }
     },
     {
-        "question": "Alliances are beneficial.",
+        "question": "I prefer to not get into a war whenever possible.",
         "i18n": {
         },
         "effect": {
@@ -494,14 +494,14 @@ questions = [
         }
     },
     {
-        "question": "We should focus more on issues outside of our nation.",
+        "question": "Israel needs large aid packages from the US. There can be no debate on this issue.",
         "i18n": {
         },
         "effect": {
             "a": 0,
             "b": 0,
             "c": 0,
-            "d": 5,
+            "d": -5,
             "e": 0,
             "f": 0,
             "g": 0
@@ -536,7 +536,7 @@ questions = [
         }
     },
     {
-        "question": "Having too much refugees lead to frequent terrorist attacks.",
+        "question": "We have had over 50 Million Immigrants since Hart-Celler passed. Lets repeal it!",
         "i18n": {
         },
         "effect": {
@@ -550,7 +550,7 @@ questions = [
         }
     },
     {
-        "question": "Illegal immigration is morally wrong in most cases.",
+        "question": "The RAISE Act and other immigration restrictionist policies should be pursued during and after Blumpf.",
         "i18n": {
         },
         "effect": {
@@ -564,7 +564,7 @@ questions = [
         }
     },
     {
-        "question": "Illegal immigrants and regular citizens deserve the same treatments.",
+        "question": "Give me your poor huddled masses yearning to be free!",
         "i18n": {
         },
         "effect": {
@@ -579,7 +579,7 @@ questions = [
     },
 //Religious vs Secular
     {
-        "question": "My religion should be spread as much as possible.",
+        "question": "Integralism is the only just system for a Catholic to support.",
         "i18n": {
         },
         "effect": {
@@ -593,7 +593,7 @@ questions = [
         }
     },
     {
-        "question": "Theocracy is a good idea.",
+        "question": "Freedom of Religion is interpreted by judicial activists to the point where its practically state atheism.",
         "i18n": {
         },
         "effect": {
@@ -607,7 +607,7 @@ questions = [
         }
     },
     {
-        "question": "Religion is just fiction for humans to develop.",
+        "question": "No European should adhere to a desert religion like Christianity, Judaism or Islam!",
         "i18n": {
         },
         "effect": {
@@ -621,7 +621,7 @@ questions = [
         }
     },
     {
-        "question": "Religion should play a much smaller role compared to the present.",
+        "question": "Religion is subservient to Human-Biodiversity and it often conflicts with our goals.",
         "i18n": {
         },
         "effect": {
@@ -635,7 +635,7 @@ questions = [
         }
     },
     {
-        "question": "Churches should be taxed.",
+        "question": "Churches should be taxed just like any other institution.",
         "i18n": {
         },
         "effect": {
@@ -649,7 +649,7 @@ questions = [
         }
     },
     {
-        "question": "Religious organizations often provide the better help compared to other non-profits.",
+        "question": "Any society without religion, whether it be Christ, Allah or the Buddha, becomes degenerate very quickly.",
         "i18n": {
         },
         "effect": {
@@ -664,7 +664,7 @@ questions = [
     },
 //Industry vs Nature
     {
-        "question": "A rapid technological advancement causes more bad than good.",
+        "question": "Zoomers will be hurt long term due to growning up with technology.",
         "i18n": {
         },
         "effect": {
@@ -692,7 +692,7 @@ questions = [
         }
     },
     {
-        "question": "We should accelerate our technological progress.",
+        "question": "Automation will bring us more good than bad and you can't stop progress.",
         "i18n": {
         },
         "effect": {
@@ -706,7 +706,7 @@ questions = [
         }
     },
     {
-        "question": "Rather than trying to restrict factories, we should let technology advance and find a easier solution in the future.",
+        "question": "Genetic modification and transhumanism will elevate mankind.",
         "i18n": {
         },
         "effect": {
@@ -720,7 +720,7 @@ questions = [
         }
     },
     {
-        "question": "Decelerating our society could mean a harder life, but it's overall worth it considering the happiness decelerating would bring.",
+        "question": "Technology democratizes culture and accelerates the advance of social liberalism.",
         "i18n": {
         },
         "effect": {
@@ -734,7 +734,7 @@ questions = [
         }
     },
     {
-        "question": "The more we accelerate, the more risks there is.",
+        "question": "Ever since arguably the Reformation, technological advancement and industrialization makes us liberal cogs with no purpose increasingly ever consecutive year.",
         "i18n": {
         },
         "effect": {
@@ -749,7 +749,7 @@ questions = [
     },
 //Race vs Equality
     {
-        "question": "Each races has their own strengths and weaknesses.",
+        "question": "Race is a biological Reality and can cause variations in everything from alcohol tolerance to IQ.",
         "i18n": {
         },
         "effect": {
@@ -763,7 +763,7 @@ questions = [
         }
     },
     {
-        "question": "My race is suprerior to other races, or vice versa.",
+        "question": "Race ultimately effects the success of a nation more than any other factor.",
         "i18n": {
         },
         "effect": {
@@ -777,7 +777,7 @@ questions = [
         }
     },
     {
-        "question": "We should judge people by their character rather than their race.",
+        "question": "Just because your an ethno-nationalist does't mean you cannot hold compassion for foreigners, provided they don't come to your nation.",
         "i18n": {
         },
         "effect": {
@@ -791,7 +791,7 @@ questions = [
         }
     },
     {
-        "question": "Racism is a real issue.",
+        "question": "Wignats tend to be people who think racism can excuse their degeneracy and lack of piety.",
         "i18n": {
         },
         "effect": {
@@ -805,7 +805,7 @@ questions = [
         }
     },
     {
-        "question": "Affirmative action is good.",
+        "question": "We don't need to be tyrants to demographically secure our nation.",
         "i18n": {
         },
         "effect": {
